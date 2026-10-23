@@ -130,9 +130,11 @@
 <h2 align="center">⌘ Commit Activity</h2>
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/5B8FB9/Jay-1107" alt="Jay Prajapati's real GitHub contribution calendar" title="Real GitHub contributions by Jay Prajapati" />
-  <br /><br />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-1107&theme=github_dark" alt="Jay Prajapati's GitHub commit activity and contribution details" title="Jay Prajapati GitHub activity summary" />
+  <a href="https://github.com/Jay-1107?tab=overview&from=2025-10-01&to=2026-10-23" title="View Jay Prajapati's official GitHub contribution history">
+    <img width="100%" src="https://ghchart.rshah.org/5B8FB9/Jay-1107" alt="Jay Prajapati's public GitHub contribution calendar generated from GitHub activity" title="Jay Prajapati public GitHub contribution calendar" />
+  </a>
+  <br />
+  <sub>Live public contribution calendar for <a href="https://github.com/Jay-1107">@Jay-1107</a>. No contribution totals are manually entered.</sub>
 </div>
 
 ---
