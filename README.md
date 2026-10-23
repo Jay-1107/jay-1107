@@ -1,7 +1,8 @@
 <!-- GitHub profile README for github.com/Jay-1107 -->
+<!-- Decorative images use plain <img> elements and are intentionally not wrapped in links. -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Jay Prajapati — Full Stack Developer and Web Designer specializing in React.js, Next.js, TypeScript, Node.js, WordPress and YOOtheme" title="Jay Prajapati — Full Stack Developer &amp; Web Designer" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Jay Prajapati — Full Stack Developer and Web Designer specializing in React.js, Next.js, TypeScript, Node.js, WordPress and YOOtheme" title="Jay Prajapati — Full Stack Developer &amp; Web Designer" draggable="false" />
 
   <br />
 
@@ -20,7 +21,7 @@
 <table>
   <tr>
     <td width="34%" align="center">
-      <img src="./assets/jay-prajapati-full-stack-developer.png" width="250" alt="Jay Prajapati, Full Stack Developer and Web Designer from Gujarat, India" title="Jay Prajapati — React.js, Next.js, Node.js, WordPress and YOOtheme Developer" />
+      <img src="./assets/jay-prajapati-full-stack-developer.png" width="250" alt="Jay Prajapati, Full Stack Developer and Web Designer from Gujarat, India" title="Jay Prajapati — React.js, Next.js, Node.js, WordPress and YOOtheme Developer" draggable="false" />
     </td>
     <td width="66%">
       I'm <b>Jay Prajapati</b>, a Full Stack Developer and Web Designer from Gujarat, India. I build responsive web applications with <b>React.js, Next.js and TypeScript</b>, work across the backend with <b>Node.js and Express.js</b>, and create content-managed websites using <b>WordPress and YOOtheme</b>.
