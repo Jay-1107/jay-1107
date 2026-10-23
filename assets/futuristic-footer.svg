@@ -1,0 +1,8 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1200" y2="150"><stop stop-color="#030712"/><stop offset=".5" stop-color="#111038"/><stop offset="1" stop-color="#030712"/></linearGradient><linearGradient id="n"><stop stop-color="#00E7FF"/><stop offset="1" stop-color="#A855F7"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="2" y="2" width="1196" height="146" rx="22" fill="url(#b)" stroke="url(#n)"/>
+  <path d="M75 75H350M850 75H1125" stroke="url(#n)" stroke-width="2" filter="url(#g)" stroke-dasharray="10 9"><animate attributeName="stroke-dashoffset" values="0;-38" dur="2s" repeatCount="indefinite"/></path>
+  <text x="600" y="68" text-anchor="middle" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3">LET'S CREATE THE FUTURE</text>
+  <text x="600" y="101" text-anchor="middle" fill="#00E7FF" font-family="monospace" font-size="15" letter-spacing="4" filter="url(#g)">ONE COMMIT AT A TIME</text>
+</svg>
+

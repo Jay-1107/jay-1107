@@ -1,0 +1,47 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jay Prajapati — Full Stack Developer and Web Designer</title>
+  <desc id="desc">Animated futuristic dark banner with cyan and violet neon effects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/><stop offset=".5" stop-color="#0B1022"/><stop offset="1" stop-color="#070315"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="250" y1="0" x2="950" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7FF"><animate attributeName="stop-color" values="#00E7FF;#A855F7;#00E7FF" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset=".5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#A855F7"><animate attributeName="stop-color" values="#A855F7;#00E7FF;#A855F7" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#22D3EE" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="frame"><rect x="12" y="12" width="1176" height="336" rx="25"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="12" y="12" width="1176" height="336" rx="25" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;42 42" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="170" cy="70" r="120" fill="#00E7FF" fill-opacity=".13" filter="url(#soft)"><animate attributeName="cx" values="170;280;170" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="300" r="150" fill="#A855F7" fill-opacity=".16" filter="url(#soft)"><animate attributeName="cy" values="300;190;300" dur="8s" repeatCount="indefinite"/></circle>
+    <path d="M0 78H300L333 45H518" stroke="#00E7FF" stroke-opacity=".5"/>
+    <path d="M1200 286H930L897 319H690" stroke="#A855F7" stroke-opacity=".6"/>
+    <g opacity=".9">
+      <circle cx="82" cy="78" r="5" fill="#00E7FF" filter="url(#glow)"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="1112" cy="286" r="5" fill="#A855F7" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="600" y="90" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="17" letter-spacing="6">WELCOME TO MY DIGITAL UNIVERSE</text>
+    <text x="600" y="176" text-anchor="middle" fill="url(#neon)" filter="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="800" letter-spacing="3">JAY PRAJAPATI</text>
+    <text x="600" y="228" text-anchor="middle" fill="#E2E8F0" font-family="monospace" font-size="23" letter-spacing="4">FULL STACK DEVELOPER  •  WEB DESIGNER</text>
+    <g transform="translate(363 265)">
+      <rect width="474" height="40" rx="20" fill="#071525" stroke="url(#neon)" stroke-opacity=".8"/>
+      <circle cx="25" cy="20" r="5" fill="#22C55E" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1.3s" repeatCount="indefinite"/></circle>
+      <text x="45" y="26" fill="#94A3B8" font-family="monospace" font-size="16">SYSTEM ONLINE // BUILDING THE FUTURE</text>
+    </g>
+    <rect y="0" width="1200" height="2" fill="#00E7FF" opacity=".35"><animate attributeName="y" values="0;360;0" dur="6s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="12" y="12" width="1176" height="336" rx="25" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+</svg>
+
