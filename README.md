@@ -24,9 +24,11 @@
       <img src="./assets/jay-prajapati-full-stack-developer.png" width="250" alt="Jay Prajapati, Full Stack Developer and Web Designer from Gujarat, India" title="Jay Prajapati — React.js, Next.js, Node.js, WordPress and YOOtheme Developer" draggable="false" />
     </td>
     <td width="66%">
-      I'm <b>Jay Prajapati</b>, a Full Stack Developer and Web Designer from Gujarat, India. I build responsive web applications with <b>React.js, Next.js and TypeScript</b>, work across the backend with <b>Node.js and Express.js</b>, and create content-managed websites using <b>WordPress and YOOtheme</b>.
+      I'm <b>Jay Prajapati</b>, a <b>Full Stack Developer and Web Designer</b> based in Gujarat, India, currently pursuing Information Technology at Silver Oak University. I specialize in building responsive, accessible and performance-focused web applications with <b>React.js, Next.js, JavaScript and TypeScript</b>, supported by a strong foundation in <b>HTML5 and CSS3</b>.
       <br /><br />
-      I enjoy turning ideas into clear, useful interfaces and continuously improving the way I design, build and ship for the web.
+      For full-stack projects, I develop backend functionality with <b>Node.js and Express.js</b> and work with <b>MongoDB and PostgreSQL</b> to build practical, data-driven solutions. I also create flexible, content-managed websites using <b>WordPress and YOOtheme</b>.
+      <br /><br />
+      I care about clean code, thoughtful user experiences and turning real ideas into reliable digital products. I use <b>Git, GitHub and AI-assisted development workflows</b> to work efficiently, learn continuously and improve the quality of what I build.
     </td>
   </tr>
 </table>
